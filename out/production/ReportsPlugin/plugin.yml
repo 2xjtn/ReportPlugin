@@ -1,0 +1,9 @@
+name: ReportPlugin
+main: org.jacob.spigot.plugins.ReportPlugin.ReportPlugin
+version: 1.0
+api-version: "1.13"
+commands:
+  report:
+  viewreport:
+  clearreports:
+  reports:
